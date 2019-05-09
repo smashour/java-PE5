@@ -69,6 +69,7 @@ class Maintest{
         Student student3 = new Student(115, 12, "Rahel");
         Student student4 = new Student(114, 10, "Aadam");
         Student student5 = new Student(113, 13, "Lanter");
+        Student student6=new Student(119,18,"kk");
 
         ArrayList<Student> list = new ArrayList<Student>();
         list.add(student1);
@@ -76,7 +77,7 @@ class Maintest{
         list.add(student3);
         list.add(student4);
         list.add(student5);
-        
+
 
 
 
